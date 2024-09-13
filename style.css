@@ -1,0 +1,58 @@
+body {
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    min-height: 100vh;   
+}
+
+.resume {
+    width: 100%;              
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid;
+
+}
+
+header h1 {
+    margin: 0;
+    font-size: 50px;
+}
+
+a {
+    color: #0073e6;
+}
+
+
+h2 {
+    border-bottom: 2px solid;
+}
+
+
+
+
+li {
+    margin-bottom: 10px;
+}
+
+
+h3 {
+    margin: 0;
+}
+
+small {
+    font-size: 0.9em;
+    color: #3c3a3a;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.date {
+    font-weight: normal;
+}
